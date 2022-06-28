@@ -320,6 +320,14 @@
     [
       "9538e4ed-27e6-4c37-b989-9859dc0d49e8",
       ""
+    ],
+    [
+      "32e232d5-57bb-46e3-a8e5-df7ec6f170f8",
+      "POWER_SUPPLY"
+    ],
+    [
+      "7b11f4fb-9ca5-474d-979f-5c95c69d797c",
+      "PHY_IP102"
     ]
   ],
   "text_variables": {}
