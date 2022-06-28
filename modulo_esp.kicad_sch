@@ -46,6 +46,9 @@
   )
 
   (symbol_instances
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/06df8f53-8264-4272-9dc7-a03c34745086"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/0b0a622f-3af0-4009-bf89-cb260164b585"
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
@@ -98,6 +101,9 @@
       (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
     )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/6f690763-600e-4c63-839e-ee3a679b5b92"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/6fb5df5e-0e9a-4091-8cb3-6ed2eb7db935"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/76ad7656-07ba-4d43-bc0d-1453d3768625"
