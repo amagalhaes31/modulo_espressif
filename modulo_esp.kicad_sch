@@ -202,6 +202,21 @@
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/278d5348-7a64-446a-bb9e-1fdb2d127416"
       (reference "#PWR052") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/098e6d8e-864a-4a1d-9ade-1748cef8e172"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/5e0428b8-5d14-4227-a33b-038acdf24f9e"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/82f6806a-36da-41b3-a1e2-af3311e70807"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/bde9e77a-3625-477e-8601-a114aab5fbb9"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/d4127f21-b8b2-463c-86ef-055a92da1874"
+      (reference "#PWR?") (unit 1) (value "GNDREF") (footprint "")
+    )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/4963f019-3ead-4e93-94b8-58e03e90d2e2"
       (reference "C1") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
@@ -270,6 +285,12 @@
     )
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/0688bc70-7f53-41de-a6b4-1297b52069e5"
       (reference "C23") (unit 1) (value "100nF/16V") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/49fc14f1-6431-40d5-9630-f10a3d276a75"
+      (reference "C?") (unit 1) (value "15pF/50V") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/e5294095-1fdc-4a48-94ea-ce7bb0c9d037"
+      (reference "C?") (unit 1) (value "15pF/50V") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/ba36ba6b-a53c-4362-97a0-ed858cd67a0d"
       (reference "CON1") (unit 1) (value "USB_B_Micro") (footprint "Connector_USB:USB_Micro-B_GCT_USB3076-30-A")
@@ -352,6 +373,24 @@
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/5d5b6e56-70b3-4fc5-b8de-7e8746916b95"
       (reference "R21") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/761f2c1c-b4d1-491f-ae31-be852d80e3fb"
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/853922e0-26e2-47ec-b080-339fec92c5f9"
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/b46e5118-dacd-41c7-9677-91995005afd7"
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/cd3ce1e5-757f-42cb-ab6a-69cd136281e9"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/e3fa7e7c-b0c0-47cf-b160-a5b96bb527ff"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/fd1d53ed-c397-4908-8fea-32dda3bbac74"
+      (reference "R?") (unit 1) (value "0R") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/e80103aa-5561-41fe-a0b4-fba0004b739b"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
     )
@@ -369,6 +408,9 @@
     )
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/d30d6bc7-81f9-4d09-9425-08cbbb7c62eb"
       (reference "U4") (unit 1) (value "IP101GRI") (footprint "Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm_ThermalVias")
+    )
+    (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/edc90c5f-8130-4162-bf12-0f0546719f39"
+      (reference "X?") (unit 1) (value "ASE-xxxMHz") (footprint "Oscillator:Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm")
     )
   )
 )
