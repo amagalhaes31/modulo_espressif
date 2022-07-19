@@ -332,6 +332,10 @@
     [
       "fad468d2-9036-4024-8b69-088056b4a2a2",
       "ESP32"
+    ],
+    [
+      "42a2b2c3-5ebb-49d9-aedb-3a59eff4693b",
+      "BG95M3"
     ]
   ],
   "text_variables": {}
