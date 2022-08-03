@@ -1893,7 +1893,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid d38bb356-ab5a-418e-ab7c-a631cc0f5f65)
   )
-  (hierarchical_label "BG95_RXD" (shape input) (at 113.03 101.6 180)
+  (hierarchical_label "BG95_RXD" (shape output) (at 113.03 101.6 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid f8776534-870b-4d45-82f4-f11aa2be412f)
   )
