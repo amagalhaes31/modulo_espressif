@@ -5,9 +5,12 @@
   (paper "A4")
 
   (title_block
-    (title "Módulo Espressif")
+    (title "PHY ETHERNET IP101")
     (date "2022-06-24")
-    (rev "v1.0")
+    (rev "0.0.0")
+    (company "Magalhaes")
+    (comment 1 "Author: Alexandre Magalhães")
+    (comment 2 "Variant 1: Full")
   )
 
   (lib_symbols
