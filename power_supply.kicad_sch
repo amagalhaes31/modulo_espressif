@@ -2820,7 +2820,7 @@
     (in_bom yes) (on_board yes)
     (uuid a28f0fc0-0b1e-4a63-985f-c627cc83cd03)
     (property "Reference" "U2" (id 0) (at 58.42 41.91 0))
-    (property "Value" "AP6503" (id 1) (at 60.96 44.45 0))
+    (property "Value" "" (id 1) (at 60.96 44.45 0))
     (property "Footprint" "" (id 2) (at 78.74 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
