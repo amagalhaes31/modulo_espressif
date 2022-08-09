@@ -440,6 +440,14 @@
     [
       "42a2b2c3-5ebb-49d9-aedb-3a59eff4693b",
       "BG95M3"
+    ],
+    [
+      "f84a0f9f-b031-4fe7-8478-dc5d7b9d04c7",
+      "SIM_CARD"
+    ],
+    [
+      "312cc4b0-8249-480e-bf7f-ea84576cfed6",
+      "BG95_PERIFERICOS"
     ]
   ],
   "text_variables": {}
