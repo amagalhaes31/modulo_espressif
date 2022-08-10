@@ -1935,7 +1935,7 @@
     (property "Reference" "#PWR97" (id 0) (at 139.7 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "" (id 1) (at 139.7 158.75 0))
+    (property "Value" "+3.9V" (id 1) (at 139.7 158.75 0))
     (property "Footprint" "" (id 2) (at 139.7 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )

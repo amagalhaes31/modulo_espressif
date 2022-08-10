@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "SIM Card")
+    (date "2022-08-10")
+    (rev "0.0.0")
+    (company "Magalhaes")
+    (comment 1 "Author: Alexandre Magalhães")
+    (comment 2 "Variant 1: Full")
+  )
+
   (lib_symbols
     (symbol "Alexandre_Library:SIM_CARD" (in_bom yes) (on_board yes)
       (property "Reference" "CON" (id 0) (at 2.54 1.27 0)
@@ -432,7 +441,7 @@
     (pin "3" (uuid 29a1b362-06a3-42e9-a1e1-a3b8ef03e810))
     (pin "5" (uuid 7ddb5057-4bdd-4fd5-8037-7e1e981d1855))
     (pin "6" (uuid b9cf334a-4975-4133-9f18-324d40fb7d09))
-    (pin "7" (uuid 0a8d4dd3-7105-4b30-a701-b67f075af297))
+    (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d4))
     (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d4))
     (pin "8" (uuid f737082e-9fc4-457b-ba13-81acb9605960))
   )
