@@ -209,7 +209,6 @@
   )
 
 
-
   (wire (pts (xy 200.66 114.3) (xy 213.36 114.3))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 02562211-3770-44b4-b0ed-44aeb594f577)
@@ -1361,6 +1360,9 @@
     (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/f84a0f9f-b031-4fe7-8478-dc5d7b9d04c7/a55421f9-e4b3-4b95-9a5c-a833b0f7321f"
       (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
+    (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/53e7ed74-46d7-48b8-ad9d-ab6195e9aedf"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
+    )
     (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/312cc4b0-8249-480e-bf7f-ea84576cfed6/ce3f3388-5de0-4595-b644-018e1029708b"
       (reference "#PWR107") (unit 1) (value "VDD_EXT") (footprint "")
     )
@@ -1447,6 +1449,9 @@
     )
     (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/312cc4b0-8249-480e-bf7f-ea84576cfed6/e9b023d3-dfa2-4e9d-b5b5-f338f9a38dd7"
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/f84a0f9f-b031-4fe7-8478-dc5d7b9d04c7/87f3a75e-cbcf-478c-aa1d-c54cbc382dda"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
     )
     (path "/32e232d5-57bb-46e3-a8e5-df7ec6f170f8/fbcd98bd-9c30-4cee-b873-daa3b82f675c"
       (reference "C1") (unit 1) (value "4.7uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
@@ -1633,6 +1638,9 @@
     )
     (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/312cc4b0-8249-480e-bf7f-ea84576cfed6/712c72d6-f4c8-437d-a319-debdabcf0498"
       (reference "D11") (unit 1) (value "LED_BLUE") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
+    )
+    (path "/42a2b2c3-5ebb-49d9-aedb-3a59eff4693b/f84a0f9f-b031-4fe7-8478-dc5d7b9d04c7/9848e4f4-0b89-4908-9310-701afa8050cc"
+      (reference "D12") (unit 1) (value "ESDA6V1BC6") (footprint "Alexandre_Library:ESDA6V1BC6")
     )
     (path "/fad468d2-9036-4024-8b69-088056b4a2a2/edddb956-61cc-4d03-a2ad-d18f83c81082"
       (reference "J1") (unit 1) (value "104426-8") (footprint "Alexandre_Library:TE_104426-8")
@@ -1992,7 +2000,7 @@
       (reference "U3") (unit 1) (value "CP2102N") (footprint "Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm")
     )
     (path "/7b11f4fb-9ca5-474d-979f-5c95c69d797c/d30d6bc7-81f9-4d09-9425-08cbbb7c62eb"
-      (reference "U4") (unit 1) (value "IP101GRI") (footprint "Package_DFN_QFN:HVQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias")
+      (reference "U4") (unit 1) (value "IP101GRI") (footprint "Package_DFN_QFN:QFN-32-1EP_4x4mm_P0.4mm_EP2.65x2.65mm_ThermalVias")
     )
     (path "/fad468d2-9036-4024-8b69-088056b4a2a2/1207bf1b-c6a3-4fea-87af-a6c1857bb93d"
       (reference "U5") (unit 1) (value "ESP32-WROOM-32D") (footprint "RF_Module:ESP32-WROOM-32")
