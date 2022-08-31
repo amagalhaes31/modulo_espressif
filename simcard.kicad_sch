@@ -1201,8 +1201,8 @@
     (pin "3" (uuid 29a1b362-06a3-42e9-a1e1-a3b8ef03e810))
     (pin "5" (uuid 7ddb5057-4bdd-4fd5-8037-7e1e981d1855))
     (pin "6" (uuid b9cf334a-4975-4133-9f18-324d40fb7d09))
-    (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d7))
-    (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d7))
+    (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d8))
+    (pin "7" (uuid c9e9b289-1696-472f-9dcb-0b8454f399d8))
     (pin "8" (uuid f737082e-9fc4-457b-ba13-81acb9605960))
   )
 
